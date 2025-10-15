@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2> <h4>(<u>Co-author</u>, *Corresponding Author)</h4>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications <small>(<u>Co-author</u>, *Corresponding Author)</small></h2>
 
 <div class="publications">
 <ol class="bibliography">
