@@ -13,7 +13,7 @@ I am currently a Lecturer at Shanghai Maritime University, and I obtained my Ph.
 
 ## News
 
-- **[Oct. 2025]** Hello. :relaxed:
+- **[Oct. 2025]** Hello. &#128512;
 <!-- - **[Oct. 2025]** Our paper OneTouch is accepted to CVPR 2020. -->
 
 
