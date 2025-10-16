@@ -20,12 +20,12 @@ main:
     # conference_short: ACSAC 2024
     conference: The Annual Computer Security Applications Conference 2024
 
-  - title: "[] MaskPrint: Take the Initiative in Fingerprint Protection to Mitigate the Harm of Data Breach"
+  - title: "[CCS 2024] MaskPrint: Take the Initiative in Fingerprint Protection to Mitigate the Harm of Data Breach"
     authors: <strong>Yihui Yan</strong>, Zhice Yang*
     # conference_short:  CCS 2024
     conference:  The 31st ACM Conference on Computer and Communications Security
 
-  - title: "[] MousePath: Lightweight phone-to-web information sharing via mouse interface"
+  - title: "[PMC] MousePath: Lightweight phone-to-web information sharing via mouse interface"
     authors: <u><strong>Yihui Yan</strong></u>, <u>Zhiwei Wang</u>, Qianyi Huang, Zhice Yang*
     # conference_short:  
     conference:  
