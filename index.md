@@ -18,13 +18,16 @@ I am currently a Lecturer at Shanghai Maritime University, and I obtained my Ph.
 - **[Aug. 2025]** &#128512; Our paper about in-model spy is accepted to RAID 2025.
 - **[Aug. 2025]** &#128512; I have joined SHMTU.
 - **[Jun. 2025]** &#128512; I completed my CS PhD from ShanghaiTech.
+- **[Mar. 2025]** &#128512; Our demo about 2FA for Fingerprint will be demonstrated in Sensys 2021.
 - **[Jan. 2025]** &#128512; Our paper about 2FA for Fingerprint is accepted to USENIX Security 2025.
 - **[Oct. 2024]** &#128512; Our paper about Privacy Protection in Wi-Fi Sensing is accepted to ACSAC 2024.
 - **[May. 2024]** &#128512; Our paper about Privacy-enhanced Fingerprint Enrollment is accepted to CCS 2024.
 - **[Feb. 2023]** &#128512; Our paper is accepted to PMC Vol.90.
 - **[Feb. 2022]** &#128512; Our paper is accepted to CHI 2022.
 - **[Feb. 2022]** &#128512; Our paper is accepted to USENIX Security 2022.
-- **[Dec. 2021]** &#128512; Our paper is accepted to GLOBECOM 2021.
+- **[Aug. 2021]** &#128512; Our paper is accepted to GLOBECOM 2021.
+- **[Jan. 2021]** &#128512; Our demo will be demonstrated in PerCom 2021.
+- **[Dec. 2020]** &#128512; Our paper is accepted to PerCom 2021.
 
 
 {% include_relative _includes/publications.md %}
