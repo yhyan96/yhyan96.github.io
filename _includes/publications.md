@@ -6,7 +6,7 @@
 {% for link in site.data.publications.main %}
 
 <div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;margin-bottom: 10px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;margin-bottom: 15px;">
       <div class="title" style="color: #0558abff;font-weight: bold;">{{ link.title }}</div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
