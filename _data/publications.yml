@@ -1,62 +1,37 @@
 main:
 
-  - title: "[RADI'25] An In-model Spy in Edge Intelligence"
+  - title: "<strong>[RADI'25]</strong> An In-model Spy in Edge Intelligence"
     authors: Fengxu Yang, Paizhuo Chen, <strong>Yihui Yan</strong>, Zhice Yang*
-    # conference_short: RADI 2025
     conference: The 28th International Symposium on Research in Attacks, Intrusions and Defenses
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
 
-  - title: "[Security'24] OneTouch: Effortless 2FA Scheme to Secure Fingerprint Authentication with Wearable OTP Token"
+  - title: "<strong>[Security'24]</strong> OneTouch: Effortless 2FA Scheme to Secure Fingerprint Authentication with Wearable OTP Token"
     authors: <strong>Yihui Yan</strong>, Zhice Yang*
-    # conference_short: Security 2024
     conference: The 34th USENIX Security Symposium
 
-  - title: "[ACSAC'24] WiShield: Fine-grained Countermeasure Against Malicious Wi-Fi Sensing in Smart Home"
+  - title: "<strong>[ACSAC'24]</strong> WiShield: Fine-grained Countermeasure Against Malicious Wi-Fi Sensing in Smart Home"
     authors: <strong>Yihui Yan</strong>, Zhice Yang*
-    # conference_short: ACSAC 2024
     conference: The Annual Computer Security Applications Conference 2024
 
-  - title: "[CCS'24] MaskPrint: Take the Initiative in Fingerprint Protection to Mitigate the Harm of Data Breach"
+  - title: "<strong>[CCS'24]</strong> MaskPrint: Take the Initiative in Fingerprint Protection to Mitigate the Harm of Data Breach"
     authors: <strong>Yihui Yan</strong>, Zhice Yang*
-    # conference_short:  CCS 2024
     conference:  The 31st ACM Conference on Computer and Communications Security
 
-  - title: "[PMC Vol.90] MousePath: Lightweight phone-to-web information sharing via mouse interface"
+  - title: "<strong>[PMC Vol.90]</strong> MousePath: Lightweight phone-to-web information sharing via mouse interface"
     authors: <u><strong>Yihui Yan</strong></u>, <u>Zhiwei Wang</u>, Qianyi Huang, Zhice Yang*
-    # conference_short:  
     conference: Pervasive and Mobile Computing, Volume 90
 
-  - title: "[CHI'22] Enabling Tangible Interaction on Non-touch Displays with Optical Mouse Sensor an Visible Light Communication"
+  - title: "<strong>[CHI'22]</strong> Enabling Tangible Interaction on Non-touch Displays with Optical Mouse Sensor an Visible Light Communication"
     authors: <u><strong>Yihui Yan</strong></u>, <u>Zezhe Huang</u>, <u>Feiyang Xudu</u>, Zhice Yang*
-    # conference_short:  
     conference: The ACM CHI Conference on Human Factors in Computing Systems 2022
 
-  - title: "[Security'22] CamShield: Securing Smart Cameras through Physical Replication and Isolation"
+  - title: "<strong>[Security'22]</strong> CamShield: Securing Smart Cameras through Physical Replication and Isolation"
     authors: Zhiwei Wang, <strong>Yihui Yan</strong>, Yueli Yan, Huangxun Chen, Zhice Yang*
-    # conference_short:  
     conference:  The 32th USENIX Security Symposium
 
-  - title: "[GLOBECOM'21] When QUIC's Connection Migration Meets Middleboxes: A case study on mobile Wi-Fi hotspot"
+  - title: "<strong>[GLOBECOM'21]</strong> When QUIC's Connection Migration Meets Middleboxes: A case study on mobile Wi-Fi hotspot"
     authors: <strong>Yihui Yan</strong>, Zhice Yang*
-    # conference_short:  
     conference: IEEE Global Communications Conference 2021 
 
-  - title: "[PerCom'21] MousePath: Enhancing PC Web Pages through Smartphone and Optical Mouse"
+  - title: "<strong>[PerCom'21]</strong> MousePath: Enhancing PC Web Pages through Smartphone and Optical Mouse"
     authors: Zhiwei Wang, Qianyi Huang, <strong>Yihui Yan</strong>, Haitian Ren, Yizhou Zhang, Zhice Yang*
-    # conference_short:  
     conference: IEEE International Conference on Pervasive Computing and Communications 2021
-
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
