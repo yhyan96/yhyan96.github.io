@@ -1,6 +1,6 @@
 main:
 
-  - title: An In-model Spy in Edge Intelligence
+  - title: "An In-model Spy in Edge Intelligence"
     authors: Fengxu Yang, Paizhuo Chen, <strong>Yihui Yan</strong>, Zhice Yang*
     conference_short: RADI 2025
     conference: The 28th International Symposium on Research in Attacks, Intrusions and Defenses
@@ -9,6 +9,21 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
+
+  - title: "OneTouch: Effortless 2FA Scheme to Secure Fingerprint Authentication with Wearable OTP Token"
+    authors: <strong>Yihui Yan</strong>, Zhice Yang*
+    conference_short:  
+    conference:  
+
+  - title: 
+    authors: <strong>Yihui Yan</strong>, Zhice Yang*
+    conference_short:  
+    conference:  
+
+  - title: 
+    authors: <strong>Yihui Yan</strong>, Zhice Yang*
+    conference_short:  
+    conference:  
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
