@@ -12,9 +12,19 @@ I am currently a Lecturer at Shanghai Maritime University, and I obtained my Ph.
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
+<!-- Good news: &#128512;  -->
+<!-- Bad news: &#128546; -->
 
-- **[Oct. 2025]** Hello. &#128512;
-<!-- - **[Oct. 2025]** Our paper OneTouch is accepted to CVPR 2020. -->
+- **[Aug. 2025]** &#128512; Our paper about in-model spy is accepted to RAID 2025.
+- **[Aug. 2025]** &#128512; I have joined SHMTU.
+- **[Jun. 2025]** &#128512; I completed my CS PhD from ShanghaiTech.
+- **[Jan. 2025]** &#128512; Our paper about 2FA for Fingerprint is accepted to USENIX Security 2025.
+- **[Oct. 2024]** &#128512; Our paper about Privacy Protection in Wi-Fi Sensing is accepted to ACSAC 2024.
+- **[May. 2024]** &#128512; Our paper about Privacy-enhanced Fingerprint Enrollment is accepted to CCS 2024.
+- **[Feb. 2023]** &#128512; Our paper is accepted to PMC Vol.90.
+- **[Feb. 2022]** &#128512; Our paper is accepted to CHI 2022.
+- **[Feb. 2022]** &#128512; Our paper is accepted to USENIX Security 2022.
+- **[Dec. 2021]** &#128512; Our paper is accepted to GLOBECOM 2021.
 
 
 {% include_relative _includes/publications.md %}
