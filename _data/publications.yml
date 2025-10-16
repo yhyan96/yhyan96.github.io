@@ -1,37 +1,37 @@
 main:
 
-  - title: "<strong>[RADI'25]</strong> An In-model Spy in Edge Intelligence"
+  - title: "[RADI'25] An In-model Spy in Edge Intelligence"
     authors: Fengxu Yang, Paizhuo Chen, <strong>Yihui Yan</strong>, Zhice Yang*
     conference: The 28th International Symposium on Research in Attacks, Intrusions and Defenses
 
-  - title: "<strong>[Security'24]</strong> OneTouch: Effortless 2FA Scheme to Secure Fingerprint Authentication with Wearable OTP Token"
+  - title: "[Security'24] OneTouch: Effortless 2FA Scheme to Secure Fingerprint Authentication with Wearable OTP Token"
     authors: <strong>Yihui Yan</strong>, Zhice Yang*
     conference: The 34th USENIX Security Symposium
 
-  - title: "<strong>[ACSAC'24]</strong> WiShield: Fine-grained Countermeasure Against Malicious Wi-Fi Sensing in Smart Home"
+  - title: "[ACSAC'24] WiShield: Fine-grained Countermeasure Against Malicious Wi-Fi Sensing in Smart Home"
     authors: <strong>Yihui Yan</strong>, Zhice Yang*
     conference: The Annual Computer Security Applications Conference 2024
 
-  - title: "<strong>[CCS'24]</strong> MaskPrint: Take the Initiative in Fingerprint Protection to Mitigate the Harm of Data Breach"
+  - title: "[CCS'24] MaskPrint: Take the Initiative in Fingerprint Protection to Mitigate the Harm of Data Breach"
     authors: <strong>Yihui Yan</strong>, Zhice Yang*
     conference:  The 31st ACM Conference on Computer and Communications Security
 
-  - title: "<strong>[PMC Vol.90]</strong> MousePath: Lightweight phone-to-web information sharing via mouse interface"
+  - title: "[PMC Vol.90] MousePath: Lightweight phone-to-web information sharing via mouse interface"
     authors: <u><strong>Yihui Yan</strong></u>, <u>Zhiwei Wang</u>, Qianyi Huang, Zhice Yang*
     conference: Pervasive and Mobile Computing, Volume 90
 
-  - title: "<strong>[CHI'22]</strong> Enabling Tangible Interaction on Non-touch Displays with Optical Mouse Sensor an Visible Light Communication"
+  - title: "[CHI'22] Enabling Tangible Interaction on Non-touch Displays with Optical Mouse Sensor an Visible Light Communication"
     authors: <u><strong>Yihui Yan</strong></u>, <u>Zezhe Huang</u>, <u>Feiyang Xudu</u>, Zhice Yang*
     conference: The ACM CHI Conference on Human Factors in Computing Systems 2022
 
-  - title: "<strong>[Security'22]</strong> CamShield: Securing Smart Cameras through Physical Replication and Isolation"
+  - title: "[Security'22] CamShield: Securing Smart Cameras through Physical Replication and Isolation"
     authors: Zhiwei Wang, <strong>Yihui Yan</strong>, Yueli Yan, Huangxun Chen, Zhice Yang*
     conference:  The 32th USENIX Security Symposium
 
-  - title: "<strong>[GLOBECOM'21]</strong> When QUIC's Connection Migration Meets Middleboxes: A case study on mobile Wi-Fi hotspot"
+  - title: "[GLOBECOM'21] When QUIC's Connection Migration Meets Middleboxes: A case study on mobile Wi-Fi hotspot"
     authors: <strong>Yihui Yan</strong>, Zhice Yang*
     conference: IEEE Global Communications Conference 2021 
 
-  - title: "<strong>[PerCom'21]</strong> MousePath: Enhancing PC Web Pages through Smartphone and Optical Mouse"
+  - title: "[PerCom'21] MousePath: Enhancing PC Web Pages through Smartphone and Optical Mouse"
     authors: Zhiwei Wang, Qianyi Huang, <strong>Yihui Yan</strong>, Haitian Ren, Yizhou Zhang, Zhice Yang*
     conference: IEEE International Conference on Pervasive Computing and Communications 2021
