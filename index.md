@@ -15,6 +15,7 @@ I am currently a Lecturer at Shanghai Maritime University, and I obtained my Ph.
 <!-- Good news: &#128512;  -->
 <!-- Bad news: &#128546; -->
 
+- **[Mar. 2026]** &#128512; Our paper about LoRa-to-mobile bridging is accepted to SECON 2026.
 - **[Aug. 2025]** &#128512; Our paper about in-model spy is accepted to RAID 2025.
 - **[Aug. 2025]** &#128512; I have joined SHMTU.
 - **[Jun. 2025]** &#128512; I completed my CS PhD from ShanghaiTech.

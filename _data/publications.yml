@@ -1,5 +1,9 @@
 main:
 
+  - title: "[SECON'26] Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning"
+    authors: Jiaqi Zhou, Fengxu Yang, <strong>Yihui Yan</strong>, Zhice Yang*
+    conference: The 22nd Annual IEEE International Conference on Sensing, Communication, and Networking
+
   - title: "[RAID'25] An In-model Spy in Edge Intelligence"
     authors: Fengxu Yang, Paizhuo Chen, <strong>Yihui Yan</strong>, Zhice Yang*
     conference: The 28th International Symposium on Research in Attacks, Intrusions and Defenses
