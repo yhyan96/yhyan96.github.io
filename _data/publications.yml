@@ -1,5 +1,27 @@
 main:
 
+  - title: "[Security'25] OneTouch: Effortless 2FA Scheme to Secure Fingerprint Authentication with Wearable OTP Token"
+    authors: <strong>Yihui Yan</strong>, Zhice Yang*
+    conference: The 34th USENIX Security Symposium
+
+  - title: "[ACSAC'24] WiShield: Fine-grained Countermeasure Against Malicious Wi-Fi Sensing in Smart Home"
+    authors: <strong>Yihui Yan</strong>, Zhice Yang*
+    conference: The Annual Computer Security Applications Conference 2024
+
+  - title: "[CCS'24] MaskPrint: Take the Initiative in Fingerprint Protection to Mitigate the Harm of Data Breach"
+    authors: <strong>Yihui Yan</strong>, Zhice Yang*
+    conference:  The 31st ACM Conference on Computer and Communications Security
+
+  - title: "[CHI'22] Enabling Tangible Interaction on Non-touch Displays with Optical Mouse Sensor an Visible Light Communication"
+    authors: <u><strong>Yihui Yan</strong></u>, <u>Zezhe Huang</u>, <u>Feiyang Xudu</u>, Zhice Yang*
+    conference: The ACM CHI Conference on Human Factors in Computing Systems 2022
+
+  - title: "[Security'22] CamShield: Securing Smart Cameras through Physical Replication and Isolation"
+    authors: Zhiwei Wang, <strong>Yihui Yan</strong>, Yueli Yan, Huangxun Chen, Zhice Yang*
+    conference:  The 32th USENIX Security Symposium
+
+all:
+
   - title: "[SECON'26] Enabling Seamless LoRa-to-Mobile Bridging via Wi-Fi Spectrum Scanning"
     authors: Jiaqi Zhou, Fengxu Yang, <strong>Yihui Yan</strong>, Zhice Yang*
     conference: The 22nd Annual IEEE International Conference on Sensing, Communication, and Networking

@@ -1,9 +1,15 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <span style="font-size: 0.6em; color: #666;">(<u>Co-author</u>, *Corresponding Author)</span></h2>[Full List](/publications/)
+---
+layout: homepage
+title: Publications
+permalink: /publications/
+---
+
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications <span style="font-size: 0.6em; color: #666;">(<u>Co-author</u>, *Corresponding Author)</span></h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.publications.all %}
 
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;margin-bottom: 15px;">
