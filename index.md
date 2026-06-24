@@ -16,7 +16,7 @@ I am currently a Lecturer at Shanghai Maritime University, and I obtained my Ph.
 <!-- Bad news: &#128546; -->
 
 <div id="news-section">
-  <ul id="news-list" style="padding-left: 0; margin-top: 0; margin-bottom: -15px">
+  <ul id="news-list" style="padding-left: 0; margin-top: 0; margin-bottom: -10px">
     <li><strong>[Mar. 2026]</strong> 😊 Our paper about LoRa-to-mobile bridging is accepted to SECON 2026.</li>
     <li><strong>[Aug. 2025]</strong> 😊 Our paper about in-model spy is accepted to RAID 2025.</li>
     <li><strong>[Aug. 2025]</strong> 😊 I have joined SHMTU.</li>

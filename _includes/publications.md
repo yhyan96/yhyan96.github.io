@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <span style="font-size: 0.6em; color: #666;">(<u>Co-author</u>, *Corresponding Author)</span> <a href="/publications/" style="text-decoration: underline;font-size: 0.6em; color: #666;">[Full List]</a></h2>
+<h2 id="publications" style="margin: 15px 0px -15px;">Publications <span style="font-size: 0.6em; color: #666;">(<u>Co-author</u>, *Corresponding Author)</span> <a href="/publications/" style="text-decoration: underline;font-size: 0.6em; color: #666;">[Full List]</a></h2>
 
 <div class="publications">
 <ol class="bibliography">
