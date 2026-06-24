@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: null
 title: Publications
 permalink: /publications/
 ---
@@ -7,7 +7,7 @@ permalink: /publications/
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <span style="font-size: 0.6em; color: #666;">(<u>Co-author</u>, *Corresponding Author)</span></h2>
 
 <div class="publications">
-<ol class="bibliography">
+<div class="bibliography">
 
 {% for link in site.data.publications.all %}
 
@@ -22,5 +22,5 @@ permalink: /publications/
 
 {% endfor %}
 
-</ol>
+</div>
 </div>
